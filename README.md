@@ -8,7 +8,6 @@ Bem-vindo ao Modelo de App 1 - REST GET/POST! Este é um aplicativo de exemplo q
 
 ![Alt text](https://i.postimg.cc/4dk3JLrM/PRINT1.png) ![image](https://github.com/kevinlimapena/Model_De_app_1_REST_get_post/assets/40896046/4ad112ac-cc95-4f45-a2cd-e3d50ccd963e)
 
-
 ## Instalação
 
 Antes de executar o aplicativo, certifique-se de ter o ambiente Flutter configurado em sua máquina.
