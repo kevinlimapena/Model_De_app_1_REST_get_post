@@ -1,0 +1,32 @@
+name: model_number1
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ^1.1.0
+  flutter_native_splash: ^2.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  
+flutter_native_splash:
+  color: "#f7f6f1"
+  color_dark: "#272727"
+  image: assets/ipenalitght.png
+  image_dark: assets/ipenadark.png
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/ipenadark.png
+    - assets/ipenalitght.png
+
