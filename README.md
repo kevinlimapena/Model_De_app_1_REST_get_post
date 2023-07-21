@@ -6,7 +6,8 @@ Bem-vindo ao Modelo de App 1 - REST GET/POST! Este é um aplicativo de exemplo q
 
 ## Capturas de Tela
 
-![Alt text](https://i.postimg.cc/4dk3JLrM/PRINT1.png) ![image](https://github.com/kevinlimapena/Model_De_app_1_REST_get_post/assets/40896046/4ad112ac-cc95-4f45-a2cd-e3d50ccd963e)
+![image](https://github.com/kevinlimapena/Model_De_app_1_REST_get_post/assets/40896046/daf93ce1-c112-433a-ada1-b15356fd138a)
+
 
 ## Instalação
 
